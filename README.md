@@ -26,4 +26,4 @@ self.charge = -0.5*(data[:,0]+data[:,1])
 
 self.events = data[:,2]/sum(data[:,2])
 
-I hope you find it useful and wish you the best of luck with it. 
+*I hope you find it useful and wish you the best of luck with it.*
