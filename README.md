@@ -1,4 +1,4 @@
-# PMT Calibration Python Library
+# PMT Calibration Library
 
 This is a small python library for fitting of PMT charge histograms for calibration. 
 
